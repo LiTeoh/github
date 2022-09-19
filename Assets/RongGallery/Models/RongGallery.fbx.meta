@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: 9e870aaa16907fa45984a7127280d745
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Floor
+    100002: floor2
+    100004: Front
+    100006: Glass
+    100008: light4
+    100010: light5
+    100012: light6
+    100014: outWall1
+    100016: polySurface3
+    100018: polySurface5
+    100020: polySurface6
+    100022: polySurface7
+    100024: //RootNode
+    100026: RongGallery 1
+    100028: Top
+    100030: TOP1
+    100032: transform1
+    100034: typeMesh1
+    100036: Wall
+    100038: Gallery_text
+    400000: Floor
+    400002: floor2
+    400004: Front
+    400006: Glass
+    400008: light4
+    400010: light5
+    400012: light6
+    400014: outWall1
+    400016: polySurface3
+    400018: polySurface5
+    400020: polySurface6
+    400022: polySurface7
+    400024: //RootNode
+    400026: RongGallery 1
+    400028: Top
+    400030: TOP1
+    400032: transform1
+    400034: typeMesh1
+    400036: Wall
+    400038: Gallery_text
+    2100000: phong2
+    2100002: typeBlinn
+    2100004: lambert1
+    2100006: phong1
+    2100008: Spontaneouslight
+    2100010: blinn5
+    2100012: Wall_Blue
+    2100014: Wall2
+    2100016: blinn9
+    2300000: Floor
+    2300002: floor2
+    2300004: Front
+    2300006: Glass
+    2300008: light4
+    2300010: light5
+    2300012: light6
+    2300014: outWall1
+    2300016: polySurface3
+    2300018: polySurface5
+    2300020: polySurface6
+    2300022: polySurface7
+    2300024: RongGallery 1
+    2300026: Top
+    2300028: typeMesh1
+    2300030: Wall
+    2300032: Gallery_text
+    3300000: Floor
+    3300002: floor2
+    3300004: Front
+    3300006: Glass
+    3300008: light4
+    3300010: light5
+    3300012: light6
+    3300014: outWall1
+    3300016: polySurface3
+    3300018: polySurface5
+    3300020: polySurface6
+    3300022: polySurface7
+    3300024: RongGallery 1
+    3300026: Top
+    3300028: typeMesh1
+    3300030: Wall
+    3300032: Gallery_text
+    4300000: Floor
+    4300002: typeMesh1
+    4300004: RongGallery
+    4300006: light5
+    4300008: light4
+    4300010: polySurface3
+    4300012: floor2
+    4300014: Glass
+    4300016: light6
+    4300018: polySurface6
+    4300020: polySurface7
+    4300022: polySurface5
+    4300024: Top
+    4300026: outWall1
+    4300028: Front
+    4300030: Wall
+    4300032: Gallery_text
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottom
+    second: {fileID: 2100000, guid: 814ebfed4ba05e44e82501a2e73e3f04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass1
+    second: {fileID: 2100000, guid: eca3f61a6ba42224f94c0cf93b9e6c24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Introduction
+    second: {fileID: 2100000, guid: c7683e248cf9851439ef14ba01e7cf17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Spontaneouslight
+    second: {fileID: 2100000, guid: c5bd13392bddae04cb417a5d785bc58a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall2
+    second: {fileID: 2100000, guid: ea5e0593f4e8d164c9f879221902d359, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_Blue
+    second: {fileID: 2100000, guid: d8e5a2ad620ff7f4bae42cc17fef144e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn5
+    second: {fileID: 2100000, guid: 1853c192cf239f449a419ac9e9917f2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn9
+    second: {fileID: 2100000, guid: c7683e248cf9851439ef14ba01e7cf17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong2
+    second: {fileID: 2100000, guid: 5c5f7948bee73bb46b5416e309065260, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: typeBlinn
+    second: {fileID: 2100000, guid: 2db0d546326c5b443bdbe74dbcc48796, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 25
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
